@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, Eu me chamo Júlio César! 😉🚀
 
-<!--
-**devjuliolandim/devjuliolandim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliocesarlandim_/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oijuliolandim)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjuliolandim&show_icons=true&theme=dracula)
+
+
+### Tecnologias que eu utilizo!
+<div style = "display: inline_block"><br/>
+
+<img align = "center" alt = "Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img align = "center" alt = "Java" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+
+
+
+</div>
