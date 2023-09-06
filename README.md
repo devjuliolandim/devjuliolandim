@@ -4,6 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliocesarlandim_/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oijuliolandim)
 
+![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjuliolandim&show_icons=true&theme=dracula)
+
 
 ### Technologies that i use!
 <div style = "display: inline_block"><br/>
